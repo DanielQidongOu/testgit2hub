@@ -2,8 +2,5 @@
 2222222222
 33333333
 aaaaaaaabbbbbbbbbbbbb
-
-cccccccccc
-大大磊
-
-HHHHHHHHHH
+这是我在GITHUB加的新的一行。
+你能收到吗

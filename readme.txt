@@ -9,3 +9,6 @@ aaaaaaaabbbbbbbbbbbbb
 mmmmmmmmmmmmmmmmmmmmmm
 mymymymy
 我在GITHUB的MASTER分支加的一句一句话
+vim test in again ** 
+真正学会使用VIM
+try i, then save exit

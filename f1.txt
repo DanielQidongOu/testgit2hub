@@ -2,3 +2,5 @@ test verified unverified or partly verified
 tttttttttttttt
 
 GIT NEW VERSION
+gpg key now
+********

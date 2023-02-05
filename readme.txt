@@ -13,3 +13,5 @@ vim test in again **
 真正学会使用VIM
 try i, then save exit
 -u push
+
+now gpg looks ok for verified
